@@ -3,6 +3,8 @@
 ## Project is live here 
 [Click here](http://emsnitc.freecluster.eu/)
 
+## Overview 
+The aim of this project is to provide an easy and online platform of NITC students and faculty in elective course management. The product will be useful as the student have to register in the system and choose elective courses in every semester, faculty have to approve or remove elective courses of students.
 
 
 ## Starting Execution file
